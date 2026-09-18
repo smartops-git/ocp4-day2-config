@@ -1,1 +1,4 @@
-apiVersion
+apiVersion: v1
+kind: Namespace
+metadata:
+ name: "openshift-local-storage"
